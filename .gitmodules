@@ -1,0 +1,15 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lib/goo-issuance"]
+	path = lib/goo-issuance
+	url = https://github.com/transmissions11/goo-issuance
+[submodule "lib/VRGDAs"]
+	path = lib/VRGDAs
+	url = https://github.com/transmissions11/VRGDAs
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
